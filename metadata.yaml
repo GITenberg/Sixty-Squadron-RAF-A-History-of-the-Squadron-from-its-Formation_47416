@@ -1,0 +1,28 @@
+_repo: Sixty-Squadron-RAF-A-History-of-the-Squadron-from-its-Formation_47416
+creator:
+  author:
+    agent_name: Scott, A. J. L. (Alan John Lance)
+    aliases:
+    - Scott, Jack
+    - Scott, Alan John Lance
+    birthdate: 1883
+    deathdate: 1922
+    gutenberg_agent_id: '44302'
+    url: http://www.gutenberg.org/2009/agents/44302
+description: ''
+gutenberg_issued: '2014-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47416'
+  lccn: '33007937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcsh 'World War, 1914-1918 -- Aerial operations, British'
+- !lcsh 'Great Britain. Royal Air Force. Squadron, Sixty -- History'
+title: 'Sixty Squadron R.A.F.: A History of the Squadron from its Formation'
+url: http://www.gutenberg.org/ebooks/47416
