@@ -1,4 +1,8 @@
 _repo: Sixty-Squadron-RAF-A-History-of-the-Squadron-from-its-Formation_47416
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47416-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, A. J. L. (Alan John Lance)
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '44302'
     url: http://www.gutenberg.org/2009/agents/44302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47416#Sixty-Squadron-RAF-A-History-of-the-Squadron-from-its-Formation
 gutenberg_issued: '2014-11-22'
 gutenberg_type: Text
 identifiers:
